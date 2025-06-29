@@ -19,36 +19,21 @@ function Home2() {
               Let Me <span className="purple"> Introduce </span> Myself
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm a
+              <b className="purple"> DevOps Enthusiast </b> 
+              passionate about automating infrastructure, building scalable cloud systems, and embedding security into every stage of the pipeline.
               <br />
-              <br />I am fluent in classics like
+              <br />Fluent in 
               
                 <b className="purple"> Python, Bash and Javascript. </b>
-              
+                I enjoy crafting CI/CD workflows, containerizing with <b className="purple"> Docker</b>, deploying with <b className="purple"> Kubernetes</b>, and coding with <b className="purple"> Node.js & React.js </b> when creativity strikes.
               <br />
-              <br />My field of Interest's are building new 
+              <br />I love working at the intersection of 
               
-                <b className="purple"> Cloud Technologies and DevOps</b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  DevSecOps mindset.
-                </b>
+                <b className="purple"> DevOps, Cloud, and DevSecOps</b> — always learning, always building.{" "}
               
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-          
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-            
-              &nbsp; like
-              
-                <b className="purple"> React.js </b>
-              
             </p>
           </Col>
           <Col md={4} className="myAvtar">
